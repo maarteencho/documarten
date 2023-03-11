@@ -31,7 +31,4 @@ jobs:
           deploy_key: ${{ secrets.SSH_PRIVATE_KEY }}
           publish_dir: ./build
           publish_branch: gh-pages
-          cname: yourdomain.com
           force_orphan: true
-          ssh: true
-          url: git@github.com:maarteencho/documarten.git
