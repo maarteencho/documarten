@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "My Sites",
-  tagline: "Dinos and cats",
+  tagline: "Dinos and cats!",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
