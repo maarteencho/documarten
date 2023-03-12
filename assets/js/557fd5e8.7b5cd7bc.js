@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocumarten=self.webpackChunkdocumarten||[]).push([[6278],{6837:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/documarten/blog/tags/hello","allTagsPath":"/documarten/blog/tags","count":2}')}}]);
