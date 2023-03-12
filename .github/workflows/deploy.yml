@@ -34,7 +34,7 @@ jobs:
           ssh-private-key: ${{ secrets.GH_PAGES_DEPLOY }}
       - name: Configure custom domain name
         run: |
-          echo 'docs.martinsworks.com' > ./public/CNAME
+          echo 'docs.martinsworks.com' > ./static/CNAME
       - name: Deploy to GitHub Pages
         env:
           USE_SSH: true
